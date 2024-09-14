@@ -37,7 +37,7 @@ void Game::Go()
 	ComposeFrame();
 	gfx.EndFrame();
 }
-
+//game logic
 void Game::UpdateModel()
 {
 }
